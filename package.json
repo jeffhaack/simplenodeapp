@@ -1,0 +1,18 @@
+{
+  "name": "simplenodeapp",
+  "version": "1.0.0",
+  "author": "Jeff Haack",
+  "description": "Nothing much",
+  "contributors": [
+    {
+      "name": "Jeff Haack"
+    }
+  ],
+  "dependencies" : {
+    "express"   :  "*"
+  },
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.6"
+  }
+}
